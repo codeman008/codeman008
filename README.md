@@ -14,10 +14,6 @@
 # <p align="center">  How to reach me 📫 zwalgo@funnyai.ac.cn 📫
 
 
-# <p align="center"><img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"/> </div>
-
-
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=codeman008&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <div align=center> <img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
